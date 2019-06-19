@@ -1,6 +1,7 @@
 # Writing Emails with HTML
 
 ## Useful Collections
+* https://www.w3.org/Style/Examples/007/fonts.en.html
 * https://fonts.google.com
 * https://github.com/jonathandion/awesome-emails
 * https://mjml.io/
