@@ -1,8 +1,8 @@
 # Writing Emails with HTML
 
 ## Useful Collections
-* https://www.w3.org/Style/Examples/007/fonts.en.html
-* https://fonts.google.com
+* https://www.w3.org/Style/Examples/007/fonts.en.html (fonts that works on most of email clients)
+* https://fonts.google.com (fancy fonts that only works with Apple's built-in email clients)
 * https://github.com/jonathandion/awesome-emails
 * https://mjml.io/
 
